@@ -1,0 +1,112 @@
+body {
+margin: 0;
+padding: 0;
+}
+
+nav {
+	border-bottom: 2px solid #DADCE0;
+	color: #9ea3ae;
+}
+
+nav ul {
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+	color: #9ea3ae;
+}
+
+.keep {
+	color: #F4B505;
+}
+
+#index p {
+	text-align: center;
+}
+
+#submit {
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 0px !important;
+}
+
+
+#textarea{
+	width: 100%;
+	border: none;
+	min-height: 130px;
+}
+
+.notes_afficher {
+	width: 30%;
+	background: white;
+	border: 2px solid #DADCE0;
+	box-shadow: 0px 5px 3px 2px #DADCE0; 
+	float: left;
+	margin-left: 2%;
+	margin-bottom: 3%;
+}
+
+#notes {
+	width: 33%;
+	background: white;
+	border: 2px solid #DADCE0;
+	box-shadow: 0px 5px 3px 2px #DADCE0; 
+	margin: auto;
+}
+
+#index a {
+	text-decoration: none;
+	color: #9ea3ae;
+}
+
+.menu ul li {
+	list-style: none;
+	display: inline;
+	padding: 10px 0 0 10px;
+}
+
+.menu a {
+	color: #9ea3ae;
+	text-decoration: none;
+}
+
+.formulaire {
+	width: 28%;
+	border: 1px solid #d5d5c3;
+	margin: auto;
+	height: auto;
+	padding: 25px;
+}
+
+label {
+    display: block;
+    width: 190px;
+    float: left;
+}
+
+input {
+	border: 1px solid #d5d5c3;
+	border-radius: 23px;
+	width: 13%;
+}
+
+input[type="submit"] {
+	margin-left: 190px;
+}
+
+
+.p-fond {
+	position: absolute;
+	font-size: 11px;
+	margin-top: -59px;
+	margin-left: 98px;
+}
+
+.p-text {
+	font-size: 11Px;
+    position: absolute;
+    margin-top: -59px;
+    margin-left: 202px;
+}
